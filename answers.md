@@ -104,4 +104,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Once I ran the git pull command, my local copy of README.md was updated with the changes made online
 
 
+** Answer 13 **
+jseasted@odd35:~/Documents/cs2400/Labs/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
+
+
+
+
 
